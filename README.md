@@ -1,4 +1,4 @@
-.Maths Teacher → AI Enthusiast | Python | Machine Learning | EdTech  
+Maths Teacher → AI Enthusiast | Python | Machine Learning | EdTech  
    Building tools to bridge education and AI.  
 
 <!---
